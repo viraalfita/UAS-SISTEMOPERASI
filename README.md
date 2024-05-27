@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # <p align="center">UAS - SISTEM OPERASI</p>
 
 <br><br>
@@ -49,6 +48,3 @@
 | 4    | Menghapus File              | Menghapus File dengan _rm_   |
 | 5    | Gabungkan File              | Gabungkan File dengan _cat_  |
 | 5    | Download File dari Internet | Download File dengan _wget_  |
-=======
-Hello World👽
->>>>>>> 688d1828cd82d20dc4c9db61c41528ccb1a813ba
