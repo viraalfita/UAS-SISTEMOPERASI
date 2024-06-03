@@ -33,7 +33,7 @@
 | ---- | ----------------------- | --------------------------------------- |
 | _No_ | _Fitur_                 | _Detail_                                |
 | 1    | Membuat Folder Baru     | Menggunakn Perintah _mkdir_             |
-| 2    | Masuk Direktori Folder  | Masuk Direktori Folder dengan _cd_      |
+| 2    | Menggabungkan Folder    | Menggabungkan Folder dengan _rsync_     |
 | 3    | Melihat File di Folder  | Melihat File di Folder menggunakan _ls_ |
 | 4    | Kompres Folder ke _zip_ | Kompres Folder dengan _zip_             |
 
@@ -47,4 +47,4 @@
 | 3    | Jalankan File               | Menjalankan File dengan _./_ |
 | 4    | Menghapus File              | Menghapus File dengan _rm_   |
 | 5    | Gabungkan File              | Gabungkan File dengan _cat_  |
-| 5    | Download File dari Internet | Download File dengan _wget_  |
+| 6    | Download File dari Internet | Download File dengan _wget_  |
